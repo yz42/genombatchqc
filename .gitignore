@@ -1,9 +1,16 @@
-.nextflow*
+# Nextflow / results / caches
 work/
-data/
 results/
+.nextflow*
+.cache/
+singularity/
+*.img
+*.sif
+
+# OS junk
 .DS_Store
-testing/
-testing*
-*.pyc
-null/
+
+# Python / R caches
+__pycache__/
+.Rhistory
+.Rproj.user
