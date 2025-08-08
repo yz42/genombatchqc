@@ -79,7 +79,7 @@ For more details about the output files and reports, please refer to the
 
 nf-core/genombatchqc was originally written by Yangzi wangyz.benniao@gmail.com.
 
-We thank the following people for their extensive assistance in the development of this pipeline:
+I thank the following people for their extensive assistance in the development of this pipeline:
 
 <!-- TODO nf-core: If applicable, make list of people who have also contributed -->
 
